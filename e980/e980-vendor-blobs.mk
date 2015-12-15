@@ -195,6 +195,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/lge/e980/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/e980/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
+    vendor/lge/e980/proprietary/vendor/firmware/a225_pfp.fw:system/vendor/firmware/a225_pfp.fw \
+    vendor/lge/e980/proprietary/vendor/firmware/a225_pm4.fw:system/vendor/firmware/a225_pm4.fw \
+    vendor/lge/e980/proprietary/vendor/firmware/a225p5_pm4.fw:system/vendor/firmware/a225p5_pm4.fw \
     vendor/lge/e980/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
     vendor/lge/e980/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
     vendor/lge/e980/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
@@ -214,4 +217,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F00.bin:system/vendor/firmware/CE170F00.bin \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F01.bin:system/vendor/firmware/CE170F01.bin \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F02.bin:system/vendor/firmware/CE170F02.bin \
-    vendor/lge/e980/proprietary/vendor/firmware/CE170F03.bin:system/vendor/firmware/CE170F03.bin
+    vendor/lge/e980/proprietary/vendor/firmware/CE170F03.bin:system/vendor/firmware/CE170F03.bin \

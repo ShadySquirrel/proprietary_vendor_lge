@@ -203,7 +203,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/lge/e980/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/lge/e980/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
-    vendor/lge/e980/proprietary/vendor/firmware/BCM4334B0_002.001.013.0271.0333.hcd:system/vendor/firmware/BCM4334B0_002.001.013.0271.0333.hcd \
+    vendor/lge/e980/proprietary/vendor/firmware/BCM4334B0_002.001.013.0636.0687.hcd:system/vendor/firmware/BCM4334B0_002.001.013.0636.0687.hcd \
     vendor/lge/e980/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
     vendor/lge/e980/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
     vendor/lge/e980/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \

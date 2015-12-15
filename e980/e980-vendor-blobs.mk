@@ -168,6 +168,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/lge/e980/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/lge/e980/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
+    vendor/lge/e980/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
+    vendor/lge/e980/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/lge/e980/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
     vendor/lge/e980/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/e980/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \

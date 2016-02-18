@@ -103,6 +103,20 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/lib/libmmcamera_tintless_algo.so:system/lib/libmmcamera_tintless_algo.so \
     vendor/lge/e980/proprietary/lib/libmmcamera_tintless_wrapper.so:system/lib/libmmcamera_tintless_wrapper.so \
     vendor/lge/e980/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so\
+    vendor/lge/e980/proprietary/lib/libalsa-intf.so:system/lib/libalsa-intf.so \
+	vendor/lge/e980/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
+	vendor/lge/e980/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+	vendor/lge/e980/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
+	vendor/lge/e980/proprietary/lib/libsurround_proc.so:system/lib/libsurround_proc.so \
+	vendor/lge/e980/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
+	vendor/lge/e980/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
+	vendor/lge/e980/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \
+	vendor/lge/e980/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
+	vendor/lge/e980/proprietary/lib/libidl.so:system/lib/libidl.so \
+	vendor/lge/e980/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
+	vendor/lge/e980/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
+	vendor/lge/e980/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
+	vendor/lge/e980/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
     vendor/lge/e980/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/lge/e980/proprietary/lib/libqmi_cci.so:system/lib/libqmi_cci.so \
     vendor/lge/e980/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \

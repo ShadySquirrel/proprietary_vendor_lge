@@ -115,7 +115,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
     vendor/lge/e980/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/lge/e980/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
-    vendor/lge/e980/proprietary/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
+    vendor/lge/e980/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/lge/e980/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/e980/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/e980/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
@@ -168,7 +168,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/lge/e980/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/lge/e980/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
-    vendor/lge/e980/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
     vendor/lge/e980/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
     vendor/lge/e980/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/e980/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \

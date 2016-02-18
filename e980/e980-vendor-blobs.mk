@@ -82,6 +82,27 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/lib/libchromatix_s5k3l1yx_zsl.so:system/lib/libchromatix_s5k3l1yx_zsl.so \
     vendor/lge/e980/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/lge/e980/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
+    vendor/lge/e980/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_imx132_vt.so:system/lib/libchromatix_imx132_vt.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_imx135_default_video.so:system/lib/libchromatix_imx135_default_video.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_imx135_preview.so:system/lib/libchromatix_imx135_preview.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_imx135_video_hd.so:system/lib/libchromatix_imx135_video_hd.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_imx135_video_hdr.so:system/lib/libchromatix_imx135_video_hdr.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_imx135_zsl.so:system/lib/libchromatix_imx135_zsl.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov5693_default_video.so:system/lib/libchromatix_ov5693_default_video.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov5693_preview.so:system/lib/libchromatix_ov5693_preview.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov5693_zsl.so:system/lib/libchromatix_ov5693_zsl.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov8825_video_hfr_120fps.so:system/lib/libchromatix_ov8825_video_hfr_120fps.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov8825_video_hfr_60fps.so:system/lib/libchromatix_ov8825_video_hfr_60fps.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov8825_video_hfr_90fps.so:system/lib/libchromatix_ov8825_video_hfr_90fps.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_ov8825_zsl.so:system/lib/libchromatix_ov8825_zsl.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_s5k4e5ya_default_video.so:system/lib/libchromatix_s5k4e5ya_default_video.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_s5k4e5ya_preview.so:system/lib/libchromatix_s5k4e5ya_preview.so \
+    vendor/lge/e980/proprietary/lib/libchromatix_s5k4e5ya_zsl.so:system/lib/libchromatix_s5k4e5ya_zsl.so \
+    vendor/lge/e980/proprietary/lib/libmmcamera_3a_legacy.so:system/lib/libmmcamera_3a_legacy.so \
+    vendor/lge/e980/proprietary/lib/libmmcamera_tintless_algo.so:system/lib/libmmcamera_tintless_algo.so \
+    vendor/lge/e980/proprietary/lib/libmmcamera_tintless_wrapper.so:system/lib/libmmcamera_tintless_wrapper.so \
+    vendor/lge/e980/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so\
     vendor/lge/e980/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/lge/e980/proprietary/lib/libqmi_cci.so:system/lib/libqmi_cci.so \
     vendor/lge/e980/proprietary/lib/libqmi_client_qmux.so:system/lib/libqmi_client_qmux.so \

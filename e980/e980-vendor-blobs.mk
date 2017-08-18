@@ -195,3 +195,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/firmware/dsps.b04:system/vendor/firmware/dsps.b04 \
     vendor/lge/e980/proprietary/vendor/firmware/dsps.b05:system/vendor/firmware/dsps.b05 \
     vendor/lge/e980/proprietary/vendor/firmware/dsps.mdt:system/vendor/firmware/dsps.mdt \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.b00:system/vendor/firmware/q6.b00 \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.b01:system/vendor/firmware/q6.b01 \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.b03:system/vendor/firmware/q6.b03 \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.b04:system/vendor/firmware/q6.b04 \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.b05:system/vendor/firmware/q6.b05 \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.b06:system/vendor/firmware/q6.b06 \
+    vendor/lge/e980/proprietary/vendor/firmware/q6.mdt:system/vendor/firmware/q6.mdt

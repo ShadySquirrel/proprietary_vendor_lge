@@ -187,4 +187,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
     vendor/lge/e980/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/lge/e980/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
-    vendor/lge/e980/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so
+    vendor/lge/e980/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b00:system/etc/firmware/tzapps.b00 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b03:system/etc/firmware/tzapps.b03 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.mdt:system/etc/firmware/tzapps.mdt \

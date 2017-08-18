@@ -182,4 +182,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F00.bin:system/vendor/firmware/CE170F00.bin \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F01.bin:system/vendor/firmware/CE170F01.bin \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F02.bin:system/vendor/firmware/CE170F02.bin \
-    vendor/lge/e980/proprietary/vendor/firmware/CE170F03.bin:system/vendor/firmware/CE170F03.bin
+    vendor/lge/e980/proprietary/vendor/firmware/CE170F03.bin:system/vendor/firmware/CE170F03.bin \
+    vendor/lge/e980/proprietary/lib/libacdbdata.so:system/lib/libacdbdata.so \
+    vendor/lge/e980/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
+    vendor/lge/e980/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
+    vendor/lge/e980/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
+    vendor/lge/e980/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so

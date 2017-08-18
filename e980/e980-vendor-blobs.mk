@@ -193,3 +193,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
     vendor/lge/e980/proprietary/etc/firmware/tzapps.b03:system/etc/firmware/tzapps.b03 \
     vendor/lge/e980/proprietary/etc/firmware/tzapps.mdt:system/etc/firmware/tzapps.mdt \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.b00:system/vendor/firmware/dsps.b00 \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.b01:system/vendor/firmware/dsps.b01 \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.b02:system/vendor/firmware/dsps.b02 \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.b03:system/vendor/firmware/dsps.b03 \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.b04:system/vendor/firmware/dsps.b04 \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.b05:system/vendor/firmware/dsps.b05 \
+    vendor/lge/e980/proprietary/vendor/firmware/dsps.mdt:system/vendor/firmware/dsps.mdt \

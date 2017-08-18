@@ -182,4 +182,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F00.bin:system/vendor/firmware/CE170F00.bin \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F01.bin:system/vendor/firmware/CE170F01.bin \
     vendor/lge/e980/proprietary/vendor/firmware/CE170F02.bin:system/vendor/firmware/CE170F02.bin \
-    vendor/lge/e980/proprietary/vendor/firmware/CE170F03.bin:system/vendor/firmware/CE170F03.bin
+    vendor/lge/e980/proprietary/vendor/firmware/CE170F03.bin:system/vendor/firmware/CE170F03.bin \
+ 	vendor/lge/e980/proprietary/etc/firmware/tzapps.b00:system/etc/firmware/tzapps.b00 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b01:system/etc/firmware/tzapps.b01 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b02:system/etc/firmware/tzapps.b02 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.b03:system/etc/firmware/tzapps.b03 \
+    vendor/lge/e980/proprietary/etc/firmware/tzapps.mdt:system/etc/firmware/tzapps.mdt \

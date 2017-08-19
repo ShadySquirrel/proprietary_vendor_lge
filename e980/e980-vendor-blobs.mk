@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/lge/e980/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/lge/e980/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
-    vendor/lge/e980/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/e980/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/e980/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/lge/e980/proprietary/lib/libidl.so:system/lib/libidl.so \
@@ -134,7 +133,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/e980/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/e980/proprietary/bin/qmiproxy:system/bin/qmiproxy \
-    vendor/lge/e980/proprietary/bin/rild:system/bin/rild \
     vendor/lge/e980/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/lge/e980/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/e980/proprietary/bin/mpdecision:system/bin/mpdecision \

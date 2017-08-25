@@ -136,6 +136,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e980/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/e980/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/e980/proprietary/bin/qosmgr:system/bin/qosmgr \
+    vendor/lge/e980/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/lge/e980/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/lge/e980/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/e980/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
